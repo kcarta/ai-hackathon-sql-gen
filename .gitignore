@@ -1,4 +1,4 @@
-bin/*
-obj/*
+[Bb]in/
+[Oo]bj/
 appsettings.json
 .DS_Store
