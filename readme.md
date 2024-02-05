@@ -13,7 +13,7 @@ Prerequisites:
 - SQL Server database
 
 1. Clone this repository
-2. Create an appsettings.json file with the following schema and enter your own values (OAI values - see [REST API docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#completions)):
+2. Create an `appsettings.json` file with the following schema and enter your own values (OAI values - see [REST API docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#completions)):
 ```json
 {
     "ConnectionStrings": {
